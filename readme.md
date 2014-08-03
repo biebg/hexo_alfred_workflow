@@ -1,7 +1,7 @@
 Alfred 2 Tools for Hexo 
 =============
 
-* `hxvonfig` config your hexo blog directory path
+* `hxconfig` config your hexo blog directory path
 
 * `hxnew` new a .md file and open with default app
 
